@@ -55,11 +55,6 @@ header nav .profile-link {
   margin: 0 10px;
 }
 .profile-main-container img {
-  width: 350px;
-}
-@media (max-width: 320px) {
-  .profile-main-container img {
-    width: 260px;
-    margin: 0 -8px;
-  }
+  width: 260px;
+  margin: 0 -8px;
 }
